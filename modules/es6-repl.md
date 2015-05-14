@@ -8,7 +8,7 @@ license : "MIT"
 
 <!-- @section -->
 
-# Take ES6 for a test run
+# Take ES6 For a Test Run
 
 Babel hosts a Read-eval-print loop (REPL) where you can quickly try out ES6 features.
 
