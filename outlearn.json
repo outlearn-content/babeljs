@@ -7,6 +7,9 @@
   "modules" : [
     {
       "olm" : "./modules/es6-repl.md"
+    },
+    {
+      "olm" : "./modules/modules.md"
     }
   ],
 
