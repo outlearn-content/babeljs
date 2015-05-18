@@ -3,6 +3,7 @@ name: es6-repl
 version : "0.1"
 title : "ECMAScript 6 REPL"
 description: "Read–eval–print loop for ECMAScript 6"
+freshnessDate : 2015-05-18
 license : "MIT"
 -->
 
