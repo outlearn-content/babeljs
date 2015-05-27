@@ -13,4 +13,4 @@ license : "MIT"
 
 Babel hosts a Read-eval-print loop (REPL) where you can quickly try out ES6 features.
 
-<!-- @link, "url" : "https://babeljs.io/repl/", "task" : "Try out the ES6 REPL." -->
+<!-- @link, "url" : "https://babeljs.io/repl/", "text" : "Try out the ES6 REPL." -->
