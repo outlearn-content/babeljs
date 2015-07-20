@@ -4,6 +4,7 @@ version : "0.1"
 title : "Converting ECMAScript 6 Modules"
 description: "Learn how Babel can compile ES6 modules to the module system of your
 choice."
+canonicalSource : "http://babeljs.io/docs/usage/modules/"
 freshnessDate : 2015-05-18
 license : "MIT"
 -->
